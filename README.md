@@ -1,1 +1,1 @@
-# geometric-mind.github.io
+# Blog
